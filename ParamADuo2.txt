@@ -1,0 +1,27 @@
+"Ein,Eout,Eunc,Tdes,Lon,Mamb,Pinf,Fert": 
+8790600,5860000,4184,3,183,0.8,1,17500,50
+Angola
+Female
+Ancylostoma duodenale
+starts at 2 yrs old
+
+"Ein,Eout,Eunc,Tdes,Lon,Mamb,Pinf,Fert": 
+8790600,7110000,4184,3,183,0.8,1,17500,50
+Angola
+Male
+Ancylostoma duodenale
+starts at 2 yrs old
+
+"Ein,Eout,Eunc,Tdes,Lon,Mamb,Pinf,Fert": 
+8790600,5860000,4184,3,183,0.8,0.29,17500,50
+Angola
+Female, Shoes
+Ancylostoma duodenale
+starts at 2 yrs old
+
+"Ein,Eout,Eunc,Tdes,Lon,Mamb,Pinf,Fert": 
+8790600,7110000,4184,3,183,0.8,0.29,17500,50
+Angola
+Male
+Ancylostoma duodenale
+starts at 2 yrs old
